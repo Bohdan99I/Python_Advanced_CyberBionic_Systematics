@@ -8,4 +8,4 @@
 
 ### заняття: #4
 
-### засоби навчання: Python; інтегроване середовище розробки (PyCharm або Microsoft Visual Studio + Python Tools for Visual Studio + можливість використання Юпітер Jupyter Notebook)
+### Засоби навчання: Python; інтегроване середовище розробки (PyCharm або Microsoft Visual Studio + Python Tools for Visual Studio + можливість використання Юпітер Jupyter Notebook)
