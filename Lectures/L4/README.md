@@ -4,8 +4,8 @@
 
 ---
 
-### программа навчання: **Python Advanced**
+### Программа навчання: **Python Advanced**
 
-### заняття: #4
+### Заняття: #4
 
-### засоби навчання: Python; інтегроване середовище розробки (PyCharm або Microsoft Visual Studio + Python Tools for Visual Studio + можливість використання Юпітер Jupyter Notebook)
+### Засоби навчання: Python; інтегроване середовище розробки (PyCharm або Microsoft Visual Studio + Python Tools for Visual Studio + можливість використання Юпітер Jupyter Notebook)
