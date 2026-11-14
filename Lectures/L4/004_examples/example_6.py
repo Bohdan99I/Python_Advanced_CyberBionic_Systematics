@@ -36,6 +36,4 @@ finally:
         print("Усього рядків, змінених після підключення до бази даних: ", sqlite_connection.total_changes)
         sqlite_connection.close()
         print("З'єднання з SQLite закрито")
-
-
-
+        
